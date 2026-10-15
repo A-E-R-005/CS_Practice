@@ -1,3 +1,4 @@
+import numpy as np
 # multidimensional arrays
 
 # 1 dimensional array
